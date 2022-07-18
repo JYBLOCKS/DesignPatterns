@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josearredondo/Documents/Projets/DesignPatterns/DesignPatterns.csproj": {}
+    "/Users/josearredondo/Documents/Projects/DesignPatterns/DesignPatterns.csproj": {}
   },
   "projects": {
-    "/Users/josearredondo/Documents/Projets/DesignPatterns/DesignPatterns.csproj": {
+    "/Users/josearredondo/Documents/Projects/DesignPatterns/DesignPatterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josearredondo/Documents/Projets/DesignPatterns/DesignPatterns.csproj",
+        "projectUniqueName": "/Users/josearredondo/Documents/Projects/DesignPatterns/DesignPatterns.csproj",
         "projectName": "DesignPatterns",
-        "projectPath": "/Users/josearredondo/Documents/Projets/DesignPatterns/DesignPatterns.csproj",
+        "projectPath": "/Users/josearredondo/Documents/Projects/DesignPatterns/DesignPatterns.csproj",
         "packagesPath": "/Users/josearredondo/.nuget/packages/",
-        "outputPath": "/Users/josearredondo/Documents/Projets/DesignPatterns/obj/",
+        "outputPath": "/Users/josearredondo/Documents/Projects/DesignPatterns/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josearredondo/.nuget/NuGet/NuGet.Config"

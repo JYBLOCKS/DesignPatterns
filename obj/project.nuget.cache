@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CiA+OI2SXmMuUbxhu/0OJQOD9wq7zDuDmkGEQk6gWDxp1Z35E1GS685OzB2J/aKUUKjnTYPsFmPnYUwhX5DiOg==",
+  "dgSpecHash": "RLJSeT+IGIQQ+AL6kFDAa0bKbofy/EGu0IGtWHs0JyItdkmJVMkQfru4LyFGWntSwDVDjRZTGKnoOeVzTcq7gQ==",
   "success": true,
-  "projectFilePath": "/Users/josearredondo/Documents/Projets/DesignPatterns/DesignPatterns.csproj",
+  "projectFilePath": "/Users/josearredondo/Documents/Projects/DesignPatterns/DesignPatterns.csproj",
   "expectedPackageFiles": [
     "/Users/josearredondo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/josearredondo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
